@@ -6,7 +6,7 @@
 }
 body
 {
-    background-image:url("plain.JPEG");
+    background-image:url("../plain.JPEG");
     background-size: cover;
     background-repeat: no-repeat;
     background-image: fixed;
